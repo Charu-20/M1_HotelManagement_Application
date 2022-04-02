@@ -16,6 +16,15 @@ Password:
  5 -> Exit
 
 
- # output 
+## USAGE UNITY TEST FRAMEWORK:
+The Unity Test Framework (UTF) enables Unity users to test their code in both Edit Mode and Play Mode, and also on target platforms such as Standalone, Android, iOS, etc.
+UTF uses a Unity integration of NUnit library, which is an open-source unit testing library for .Net languages.
+It is possible to extend the Unity Test Framework (UTF) in many ways, for custom workflows for your projects and for other packages to build on top of UTF.
 
-  ![projectoutput](https://user-images.githubusercontent.com/74053403/154546120-1852fc50-358b-41a2-9a99-579b4c30b066.png)
+
+## Best Practices
+
+ - [x] Checked all the possibilities of output
+ - [x] Mentioned all the inputs for better understanding
+ - [x] Presented in tabular form for easy understanding
+ - [x] Both High level and low level Test plans are shown
