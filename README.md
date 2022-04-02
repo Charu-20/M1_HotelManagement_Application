@@ -18,22 +18,19 @@ This repository is used to create Hotel Management using C programming language
 
 # Code Quality
 
-![image](https://user-images.githubusercontent.com/74053403/156293085-5e09a44d-2b0e-4b85-8093-79db75c99599.png)
-
-
+![Code Quality](https://api.codiga.io/project/32448/score/svg)
 
 # Code Grade
 
-![image](https://user-images.githubusercontent.com/74053403/156293177-1dc73abc-1e70-4c0b-9416-917b79ce3a98.png)
-
+![Code Grade](https://api.codiga.io/project/32448/status/svg)
 # Unit Testing
 
-[![UnitTesting](https://github.com/Charu-20/M1_HotelManagement_Application/blob/main/.github/workflows/c-cpp.yml/badge.svg)](https://github.com/Charu-20/M1_HotelManagement_Application/blob/main/.github/workflows/c-cpp.yml/c-cpp.yml)
+[![UnitTesting](https://github.com/Charu-20/M1_HotelManagement_Application/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Charu-20/M1_HotelManagement_Application/actions/workflows/c-cpp.yml/c-cpp.yml)
 
 # Cppcheck
 
-[![cpp](https://github.com/deena2001/M1_hotel_management_Util/actions/workflows/c-cpp2.yml/badge.svg)](https://github.com/deena2001/M1_hotel_management_Util/actions/workflows/c-cpp2.yml)
+[![cpp](https://github.com/Charu-20/M1_HotelManagement_Application/actions/workflows/c-cpp2.yml/badge.svg)](https://github.com/Charu-20/M1_HotelManagement_Application/actions/workflows/c-cpp2.yml)
 
 # static check
 
-[![Cppcheck](https://github.com/deena2001/M1_hotel_management_Util/actions/workflows/static_check.yml/badge.svg)](https://github.com/deena2001/M1_hotel_management_Util/actions/workflows/static_check.yml)
+[![Cppcheck](https://github.com/Charu-20/M1_HotelManagement_Application/actions/workflows/static_check.yml/badge.svg)](https://github.com/Charu-20/M1_HotelManagement_Application/actions/workflows/static_check.yml)
