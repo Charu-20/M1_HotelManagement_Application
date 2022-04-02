@@ -35,6 +35,12 @@ This repository is used to create Hotel Management using C programming language
 
 [![Cppcheck](https://github.com/Charu-20/M1_HotelManagement_Application/actions/workflows/static_check.yml/badge.svg)](https://github.com/Charu-20/M1_HotelManagement_Application/actions/workflows/static_check.yml)
 
+## Contributors List and Summary
+
+PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|---------|----------------|----------------|---------------|-------------|--------------
+88554545| Charu| Hotel Management   | 1  | 1 | 4  | 4
+
 ## Challenges Faced and How Was It Overcome
 
 1. Applying unit concept was quite challenging.
@@ -45,3 +51,4 @@ This repository is used to create Hotel Management using C programming language
 2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
 3. [git inspector](https://github.com/ejwa/gitinspector.git)
 4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+
